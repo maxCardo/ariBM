@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { AdminNavModal } from "@/components/admin-nav-modal";
 
 const navItems = [
   { href: "/", label: "RSVP" },
@@ -33,6 +34,7 @@ export function SiteNav() {
               </Link>
             </li>
           ))}
+          <AdminNavModal />
         </ul>
       </nav>
     </header>
