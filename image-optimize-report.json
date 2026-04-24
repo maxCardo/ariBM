@@ -1,0 +1,294 @@
+{
+  "processed": 0,
+  "failed": 70,
+  "total": 70,
+  "beforeBytes": 130655864,
+  "afterBytes": 130655864,
+  "savedBytes": 0,
+  "beforeMB": "124.60",
+  "afterMB": "124.60",
+  "savedMB": "0.00",
+  "finishedAt": "2026-04-22T12:02:23.915Z",
+  "failedFiles": [
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\3a1a0448-8856-4b58-a887-6e1d5bbfc1c1.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\3a1a0448-8856-4b58-a887-6e1d5bbfc1c1.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\9db9e9b6-712d-4659-88d0-3a1c205c40ed.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\9db9e9b6-712d-4659-88d0-3a1c205c40ed.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\A4E25261-31AE-4439-8FEE-29DBBB9711F9.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\A4E25261-31AE-4439-8FEE-29DBBB9711F9.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\ac47ae4d-bdbe-4d26-b516-5afd862abbb1.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\ac47ae4d-bdbe-4d26-b516-5afd862abbb1.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\ari-char-game.jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\ari-char-game.jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\B9A4C9D8-B16B-4F3E-9617-11B2B408481E.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\B9A4C9D8-B16B-4F3E-9617-11B2B408481E.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\DJI_20260120_115657_521.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\DJI_20260120_115657_521.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\DJI_20260120_120248_459.jpg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\DJI_20260120_120248_459.jpg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\Fam Main.jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\Fam Main.jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\imaculate.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\imaculate.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\image000000.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\image000000.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\image000002.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\image000002.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_0777.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_0777.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_1406.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_1406.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_2242.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_2242.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_3135.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_3135.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_3141.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_3141.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_3425.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_3425.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_5438.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_5438.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_5439.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_5439.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_5444.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_5444.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_5473.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_5473.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_5511.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_5511.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_5535.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_5535.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_6348.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_6348.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_6750.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_6750.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7058.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7058.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7113.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7113.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7157.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7157.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7179.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7179.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7197.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7197.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7199.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7199.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7202.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7202.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7219.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7219.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7317.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7317.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7387.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7387.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7475.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7475.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7536.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7536.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7546.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7546.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7560.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_7560.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_8843.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_8843.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_8859.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_8859.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_8913.JPG",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\IMG_8913.JPG'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\sorry.jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\sorry.jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.51 PM.jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.51 PM.jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.52 PM (1).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.52 PM (1).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.52 PM (2).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.52 PM (2).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.52 PM.jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.52 PM.jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (1).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (1).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (10).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (10).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (12).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (12).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (13).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (13).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (14).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (14).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (15).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (15).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (16).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (16).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (17).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (17).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (18).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (18).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (19).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (19).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (20).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (20).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (21).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (21).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (3).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (3).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (4).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (4).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (5).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (5).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (6).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (6).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (7).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (7).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (8).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (8).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (9).jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM (9).jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM.jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.52.53 PM.jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.53.51 PM.jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.53.51 PM.jpeg'"
+    },
+    {
+      "file": "C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.54.18 PM.jpeg",
+      "error": "Error: UNKNOWN: unknown error, open 'C:\\Users\\adam_\\documents\\dev\\evil_monkey\\Ari-BM\\ari-bm-site\\public\\images\\ari\\WhatsApp Image 2026-04-21 at 6.54.18 PM.jpeg'"
+    }
+  ]
+}
